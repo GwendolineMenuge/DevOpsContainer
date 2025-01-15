@@ -66,7 +66,7 @@ jobs:
         id: test-action
         uses: ./
         with:
-          who-to-greet: Gwendoline
+          who-to-greet: Gwendoline 2
 
       - name: Print Output
         id: output
